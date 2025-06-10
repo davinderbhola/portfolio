@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { toast } from "react-toastify";
 
 function Form(props) {
   const [name, setName] = useState("");
@@ -7,8 +8,10 @@ function Form(props) {
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
 
+  const notify = () => toast.success("Message sent successfully");
   const handleSubmit = (e) => {
     // e.preventDefault();
+    notify();
     setTimeout(() => {
       setName("");
       setEmail("");
