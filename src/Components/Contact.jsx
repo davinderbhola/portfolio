@@ -80,7 +80,11 @@ function Form(props) {
           <input type="hidden" name="_captcha" value="false"></input>
           <input type="hidden" name="_template" value="table"></input>
           <input type="hidden" name="_subject" value="Send our Resume" />
-          {/* <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html"></input> */}
+          <input
+            type="hidden"
+            name="_next"
+            value="https://portfolio-tau-gilt-46.vercel.app/"
+          ></input>
 
           <button
             type="submit"
