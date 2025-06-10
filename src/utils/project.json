@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "pname": "E-Products Web App",
+    "descrip": "I have created an e-commerce web app using React.js and Tailwind CSS, and it's fully optimized, and using browser local storage but The project is well-optimized for desktop experiences but is currently not mobile responsive. For best results, please open it on a desktop device.",
+    "image": "project1.jpg",
+    "link": "https://e-products-tau.vercel.app/",
+    "github": "https://github.com/davinderbhola/EProducts"
+  },
+  {
+    "id": 1,
+    "pname": "Employee Management",
+    "descrip": "I have developed a fully functional Employee Management System using React.js, Tailwind CSS, browser localStorage for storing data. The project is well-optimized for desktop experiences but is currently not mobile responsive. For best results, please open it on a desktop device.",
+    "image": "project2.jpg",
+    "link": "https://employee-management-seven-blond.vercel.app/",
+    "github": "https://github.com/davinderbhola/EmployeeManagement"
+  },
+  {
+    "id": 1,
+    "pname": "Obys.agency_clone",
+    "descrip": "I have created a front-Ui clone of the Obys Agency website using React.js, with smooth animations powered by GSAP and ScrollTrigger. The entire interface is highly interactive and visually engaging. However, it's fully optimized for desktop & mobile screens — please view for the best experience.",
+    "image": "project3.jpg",
+    "link": "https://davinderbhola.github.io/obys.agency_clone/",
+    "github": "https://github.com/davinderbhola/obys.agency_clone"
+  }
+]

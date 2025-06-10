@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "HTML",
+    "bgClor": "shadow-orange-500/50",
+    "image": "https://img.icons8.com/color/200/html-5.png"
+  },
+  {
+    "id": "2",
+    "name": "CSS",
+    "bgClor": "shadow-sky-500/50",
+    "image": "https://img.icons8.com/fluent/512/css3.png"
+  },
+  {
+    "id": "4",
+    "name": "Java Script",
+    "bgClor": "shadow-yellow-500/50",
+    "image": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"
+  },
+  {
+    "id": "5",
+    "name": "Tailwind Css",
+    "bgClor": "shadow-cyan-500/50",
+    "image": "https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png"
+  },
+  {
+    "id": "6",
+    "name": "Bootstrap",
+    "bgClor": "shadow-purple-500/50",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/964px-Bootstrap_logo.svg.png"
+  },
+  {
+    "id": "7",
+    "name": "Json",
+    "bgClor": "shadow-yellow-500/50",
+    "image": "https://images.icon-icons.com/2107/PNG/512/file_type_json_icon_130504.png"
+  },
+  {
+    "id": "8",
+    "name": "React-Js",
+    "bgClor": "shadow-cyan-500/50",
+    "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+  },
+  {
+    "id": "9",
+    "name": "Java",
+    "bgClor": "shadow-indigo-500/50",
+    "image": "https://img.icons8.com/?size=512&id=13679&format=png"
+  },
+  {
+    "id": "10",
+    "name": "My-Sql",
+    "bgClor": "shadow-amber-500/50",
+    "image": "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"
+  }
+]
