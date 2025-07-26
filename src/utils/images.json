@@ -52,5 +52,17 @@
     "name": "My-Sql",
     "bgClor": "shadow-amber-500/50",
     "image": "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"
+  },
+  {
+    "id": "11",
+    "name": "Node JS",
+    "bgClor": "shadow-green-500/50",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+  },
+  {
+    "id": "12",
+    "name": "Mongo DB",
+    "bgClor": "shadow-green-700/50",
+    "image": "https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
   }
 ]
